@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-A young boiy discovers a hidden gate behind the zoo.
+A young boy discovers a hidden gate behind the zoo.
 Behind it, he finds a magical world of unicorns living in perfect piece and harmony where he discovers the meaning of imagination.
 
 ## Plot
@@ -23,11 +23,12 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 George met the Unicorn King who granted him magic powers.
+
 The end.
 
 ## Cast
 
-* Young Boy: Dan
-* Unicorn King: Alan
-* Friendly Koala: Adriana
-* Janitor: Mitchell
+* Young Boy      : Dan
+* Unicorn King   : Alan
+* Friendly Koala : Adriana
+* Janitor        : Mitchell
