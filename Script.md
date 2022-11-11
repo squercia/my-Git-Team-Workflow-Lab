@@ -24,6 +24,8 @@ He took a tentative step through the door and followed the stone path overgrown 
 
 Arthur met the Unicorn King who granted him magic powers.
 
+One day a girl with a unicorn t-shirt visits the zoo and he realizes he is truly a unicorn. His animal friends make fun of him and he stays by himself. When Manda, the zookeeper, misses him, she goes to find him and learns his friends made fun of him. She goes to his animal friends and they come up with an idea. Will it work?
+
 The end.
 
 ## Cast
